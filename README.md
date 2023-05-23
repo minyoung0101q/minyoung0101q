@@ -1,3 +1,4 @@
+### Hi there 👋, My name is minyoung!
 - 👋 Hello everyone, I am a computer software engineering student.
 - 👀 My goal is to become a front-end developer.
 - 🌱 If you would like to contact me, please reach out to me at minyoung0101q@gmail.com 💞️
@@ -10,7 +11,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
-### Hi there 👋, My name is minyoung!
+
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm a computer software engineering student preparing for a career as a front-end developer.
