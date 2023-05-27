@@ -13,8 +13,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minyoung0101q&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/minyoung0101q)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=minyoung0101q)  
-
 ![Profile views](https://gpvc.arturio.dev/minyoung0101q)  
