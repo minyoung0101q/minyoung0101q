@@ -12,5 +12,3 @@
 </div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minyoung0101q&show_icons=true&count_private=true)  
-
-![Profile views](https://gpvc.arturio.dev/minyoung0101q)  
