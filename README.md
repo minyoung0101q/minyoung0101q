@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is minyoung!
 - 👋 Hello everyone, I am a computer software engineering student.
-- 👀 My goal is to become a front-end developer and an AI Prompt Engineer.
+- 👀 My goal is to become a DBA
 - 🌱 If you would like to contact me, please reach out to me at minyoung0101q@gmail.com 💞️
 
 <h3>🛠Languages</h3>
